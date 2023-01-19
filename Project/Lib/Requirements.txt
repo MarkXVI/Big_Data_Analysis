@@ -1,0 +1,20 @@
+You can choose your own topic for the project but there are some requirements that you must fulfill
+
+Note that you cannot just reuse your whole project from the web and deploy it.
+Expected effort per student: 100h (Including presentation, written report not included)
+All project work should be upload in GitHub (This is must)
+To pass the project all those requirements should be addressed:
+
+Reg.1. Data Collections (Just you need to work with dataset you chose)
+
+Reg.2. Data Pre-processing.
+
+Reg.3. Data Analysis.
+
+Reg.4. Representation & Visualization.
+
+Reg.5. The application must demand some sort of security.
+
+For example, the application shall continue to work even though the connection to the Cloud is lost, data should be cached locally and then sent to the Cloud when the connection is restored.
+
+The requirements intended learning outcomes 1–3, 7–9, 13 and 14 are assessed. The grading scale is Fail (U) and Pass (G).

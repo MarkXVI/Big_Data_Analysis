@@ -1,0 +1,14 @@
+When you are ready for presentation, upload the GitHub link in the assignment "Upload Project Github link" before the deadline.
+
+A few days after the submission date, a detail time scheduled will be presented with time slots for all the groups.
+
+You are welcome to join and listen to the other groups presentation.
+
+Each group will be given maximum 20 minutes for presentation and then 10 minutes with questions.
+
+
+At the presentation seminar do a short live demo of your project and its features (10 minutes)
+
+Also present the technical solution for 10 minutes. 
+
+Since time is limited try focus on your most important parts of your project since we cannot go in to detail.
